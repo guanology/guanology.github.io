@@ -1,0 +1,12 @@
+*.d.ts
+*.test.tsx
+build/
+dist/
+e2e
+package.json
+packages/contracts
+packages/storybook-shared
+packages/netlify/storybook-static
+packages/netlify/snowpack
+public/
+scripts/
